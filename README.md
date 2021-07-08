@@ -1,3 +1,2 @@
 # expo-camino-back-end
-
-Create a business logic of save data of player in the game Expo-camino
+Proyect for web service in PHP where include REST for built expo-camino with DB.
